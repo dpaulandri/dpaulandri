@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning #swift #swiftUI
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me at Twitter @dpaulandri
-- 
