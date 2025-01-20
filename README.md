@@ -2,5 +2,4 @@
 - 👀 I’m interested in Swift, SwiftUI &  iOS Development
 - 🌱 I’m currently learning #swift #swiftUI
 - 💞️ I’m looking to collaborate on anything
-- 📫 Twitter @dpaulandri
-- 📫 Mastodon @dpaulandri@iosdev.space
+- 📫 Bluesky @paulandri.com
